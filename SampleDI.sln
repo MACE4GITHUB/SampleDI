@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SampleDI", "SampleDI\SampleDI.csproj", "{DD14F92E-70BE-4873-B7D0-119BF1177DAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDITests", "SimpleDITests\SimpleDITests.csproj", "{45A11558-0DD0-41A2-9959-875BD36BC9A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD14F92E-70BE-4873-B7D0-119BF1177DAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD14F92E-70BE-4873-B7D0-119BF1177DAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD14F92E-70BE-4873-B7D0-119BF1177DAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD14F92E-70BE-4873-B7D0-119BF1177DAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45A11558-0DD0-41A2-9959-875BD36BC9A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45A11558-0DD0-41A2-9959-875BD36BC9A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45A11558-0DD0-41A2-9959-875BD36BC9A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45A11558-0DD0-41A2-9959-875BD36BC9A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8225D685-6B15-4E8E-9065-147C980FC9F2}
+	EndGlobalSection
+EndGlobal
